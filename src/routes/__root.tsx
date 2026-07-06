@@ -89,8 +89,8 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { name: "description", content: "A premium personal portfolio website showcasing Srinivasa Raghavan's Computer Science engineering skills and projects." },
       { property: "og:description", content: "A premium personal portfolio website showcasing Srinivasa Raghavan's Computer Science engineering skills and projects." },
       { name: "twitter:description", content: "A premium personal portfolio website showcasing Srinivasa Raghavan's Computer Science engineering skills and projects." },
-      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/f36d0308-c05f-4e63-b0f8-d31e8e281b02/id-preview-3bc96465--568bb3bd-34e6-41aa-b54e-06d475e35d4c.lovable.app-1782882980881.png" },
-      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/f36d0308-c05f-4e63-b0f8-d31e8e281b02/id-preview-3bc96465--568bb3bd-34e6-41aa-b54e-06d475e35d4c.lovable.app-1782882980881.png" },
+      { property: "og:image", content: "https://ssrinivasaraghavan29.netlify.app/og-image.png" },
+      { name: "twitter:image", content: "https://ssrinivasaraghavan29.netlify.app/og-image.png" },
     ],
     links: [
       { rel: "stylesheet", href: appCss },
